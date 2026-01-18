@@ -35,13 +35,13 @@ class ContentRating extends Component {
 
         <p className='content'>
           Ekurhuleni mayoral candidate Cllr Xolani Khumalo will hand himself over to SAPS on 19 January 2026 following reports of an intended arrest linked to an alleged assault case.
-According to a press release dated 16 January, issued by Herman Mashaba and published on ActionSA Facebook page, the charge is linked to Khumalo’s involvement in confronting drug dealers while suspected criminals in similar cases were previously released without charges. This raises serious concerns about a justice system that appears to punish crime fighters instead of criminals.
-SAIEI stands in solidarity with Cllr Xolani Khumalo, recognizing him as an activist for a just cause that affects all of us as a nation. SAIEI and the public must rally behind individuals who stand for justice and accountability.
-#HandsAgainstDrugs #ProtectOurYouth #SaferCommunities
-#LeadershipInAction #EndDrugsSA #EkurhuleniFuture
-#CommunitiesFirst #FightDrugs #RealLeadership
-#StandAgainstDrugs #YouthMatter #CleanCommunities
-#ActionNotWords #DrugFreeSA #StrongerEkurhuleni
+          According to a press release dated 16 January, issued by Herman Mashaba and published on ActionSA Facebook page, the charge is linked to Khumalo’s involvement in confronting drug dealers while suspected criminals in similar cases were previously released without charges. This raises serious concerns about a justice system that appears to punish crime fighters instead of criminals.
+          SAIEI stands in solidarity with Cllr Xolani Khumalo, recognizing him as an activist for a just cause that affects all of us as a nation. SAIEI and the public must rally behind individuals who stand for justice and accountability.
+          #HandsAgainstDrugs #ProtectOurYouth #SaferCommunities
+          #LeadershipInAction #EndDrugsSA #EkurhuleniFuture
+          #CommunitiesFirst #FightDrugs #RealLeadership
+          #StandAgainstDrugs #YouthMatter #CleanCommunities
+          #ActionNotWords #DrugFreeSA #StrongerEkurhuleni
         </p>
 
         <div className='rating-buttons'>
